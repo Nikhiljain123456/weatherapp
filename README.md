@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the weather website. THIS is helpful for the user to know about the cuurent weather situation. User can simply enter the city name and they will get to know about the current weather situation in their respective city. 
 
 ## Available Scripts
 
